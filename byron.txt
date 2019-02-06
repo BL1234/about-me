@@ -1,3 +1,4 @@
+master stash 
 blue line4
 line3
 line2
